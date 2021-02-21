@@ -13,4 +13,7 @@
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
 
+    <modules>
+        <module>catalog-service</module>
+    </modules>
 </project>
