@@ -1,0 +1,23 @@
+# Ignored files
+*.class
+*.jar
+*.lst
+*/target/
+*.idea/
+*.iml
+*/target/*
+.idea/workspace.xml
+/bin/
+/WebContent/
+sm-shop/SALESMANAGER.lock.db
+.DS_Store
+*/sm-shop/**
+.project
+catalog-service/**/rebel*.xml
+catalog-service/.project
+**/bin
+**/build
+**/.settings
+**/.classpath
+
+.mvnw/*.jar
