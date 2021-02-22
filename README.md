@@ -1,6 +1,6 @@
 # zero-delivery
 
-### The service should be considered at the first glance 
+### The services should be considered at the first glance 
 
 - [ ] Catalog-Service
 - [ ] Restaurant-Service
